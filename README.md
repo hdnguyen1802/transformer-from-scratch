@@ -95,7 +95,6 @@ pip install transformers
 
 1. **Preprocess the Data:**  
    - Tokenize, create vocabulary, and prepare `<sos>`, `<eos>`, `<pad>` tokens if using a custom pipeline.  
-   - If your code is already set up to handle `train.en` and `train.vi`, just ensure the files are in the correct directory.
 
 2. **Run the Training Script or Notebook:**  
    - `main.ipynb` typically contains code to:
