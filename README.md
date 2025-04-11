@@ -18,7 +18,6 @@ This repository contains a Transformer implementation based on the paper **["Att
   - [Testing](#testing)
   - [Inference](#inference)
 - [References](#references)
-- [License](#license)
 
 ## Overview
 
