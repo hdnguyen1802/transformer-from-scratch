@@ -2,6 +2,9 @@
 
 This repository contains a Transformer implementation based on the paper **["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)** by Vaswani et al. The model is coded from scratch (without relying on high-level libraries like `transformers`) and is trained on an English-to-Vietnamese dataset that including 600k sentences collected and processed on TED..
 
+![image](https://github.com/user-attachments/assets/38d5815b-3af0-4735-bbba-bd5c9b121409)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Files and Directories](#files-and-directories)
