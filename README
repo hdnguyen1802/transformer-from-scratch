@@ -17,8 +17,6 @@ This repository contains a Transformer implementation based on the paper **["Att
 - [References](#references)
 - [License](#license)
 
----
-
 ## Overview
 
 1. **Model Architecture:**  
@@ -34,8 +32,6 @@ This repository contains a Transformer implementation based on the paper **["Att
    - **`train.en` / `train.vi`** for training  
    - **`tst2012.en` / `tst2012.vi`** for validation  
    - **`tst2013.en` / `tst2013.vi`** for testing  
-
----
 
 ## Files and Directories
 
@@ -68,8 +64,6 @@ This repository contains a Transformer implementation based on the paper **["Att
 - **`Attention is all you need.pdf`**  
   The original paper for reference.
 
----
-
 ## Dependencies
 
 -   **Python:** 3.7 or higher
@@ -83,8 +77,6 @@ pip install numpy
 pip install transformers
 ```
 
----
-
 ## Data
 
 ### Training Set
@@ -96,8 +88,6 @@ pip install transformers
 
 - **`tst2012.en` / `tst2012.vi`**  
 - **`tst2013.en` / `tst2013.vi`**  
-
----
 
 ## Usage
 
@@ -121,12 +111,9 @@ pip install transformers
   2. Passing token IDs through the encoder.  
   3. Using a greedy decoding in the decoder until `<eos>` is generated.
 
----
-
 ## References
 
 -   **Paper:** [Attention Is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017).
 -   **GitHub Repository:** [pbcquoc/transformer](https://github.com/pbcquoc/transformer)
----
 
 **Happy translating!** Feel free to submit issues or pull requests if you find any bugs or want to contribute improvements to the code or email me at haidangnguyen1815@gmail.com.
