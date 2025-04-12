@@ -56,7 +56,7 @@ This repository contains a Transformer implementation based on the paper **["Att
   Parallel sentences used for final testing.
 
 - **`best_model.pth`**  
-  Download my pre-train model https://drive.google.com/file/d/1fbtQGSG_O83tmO9k3yQ7Io34MDNIep17/view?usp=drive_link
+  [Download my pre-train model](https://drive.google.com/file/d/1fbtQGSG_O83tmO9k3yQ7Io34MDNIep17/view?usp=drive_link)
 - **`main.ipynb`** 
   A Jupyter notebook demonstrating how to:
   1. Preprocess the data  
